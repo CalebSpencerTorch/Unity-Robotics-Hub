@@ -96,7 +96,7 @@ If issue still persists:
 ## Open port on Windows Firewall
 - Open port in Windows Firewall by opening `Windows Defender Firewall` then selecting `Action` -> `New Rule...`
 	- Port `10000` will need to be added as an outbound rule
-	- Port `5005` will need to obe added as an inbound rule
+	- Port `5005` will need to be added as an inbound rule
 
 ![](images/troubleshoot-port-firewall.png)
 
